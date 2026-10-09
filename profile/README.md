@@ -4,6 +4,8 @@
 
 我们在 IANA 和 DN42（这是一个实验性的、去中心化的网络）上运行 Baka.Pub Network。
 
+在 IANA（即绝大多数人使用的互联网）上，我们提供有限制的商业宽带服务。
+
 ## 开源项目
  - [DN42 Bot](https://github.com/AS214933/dn42-bot)：基于 [Potat0 DN42 Bot](https://github.com/Potat0000/dn42-bot) 二次开发的 DN42 Bot，支持多种功能。
 
